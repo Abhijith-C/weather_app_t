@@ -1,0 +1,1 @@
+enum WeatherState {Loading, Completed}
